@@ -1,6 +1,6 @@
 # Summary
 
-[Introduction](README.md)
+* [Introduction](README.md)
 * [Basics](basics/README.md)
     * [Comments](basics/comments.md)
     * [Variables](basics/variables.md)
